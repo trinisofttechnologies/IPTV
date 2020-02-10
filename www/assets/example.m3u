@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",1 JattTV.CoM TV Urban Desi Musix [1080p]
+http://ad.mysisli.com/live/DESIBOX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.1yestv.com/images/logo.png" group-title="INDIA",1 Yes TV
+http://150.242.21.2/oneyes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://firstindianews.com/images/logo.png" group-title="Hindi(हिन्दी)",1st News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="INDIA",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mylivechannels.com/uploads/thumbs/1539608495_icon.png" group-title="Punjabi (ਪੰਜਾਬੀ)",5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/P3j9VWa.png" group-title="INDIA",Aarya TV
+http://150.242.21.2/aaryaa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="Bengali(বাংলা)",ABP Ananda
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi(हिन्दी)",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JPy08Fd.png" group-title="INDIA",Agam TV
+http://209.58.160.206/agamtvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AKARAM GALLATA TV [240p]
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FidIz1G.jpg" group-title="INDIA",Akaram Mix TV
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aldawah.tv/wp-content/themes/al_dawah/images/logo.png" group-title="Bengali(বাংলা)",Aldwah
+http://62.210.141.179:8000/ibrahim/123456/1344
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="India-WebTV",Aljazeera News
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",AMAR UJALA [360p]
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8

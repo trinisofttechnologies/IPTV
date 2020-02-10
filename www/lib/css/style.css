@@ -1,5 +1,12 @@
 /* Custom CSS */
+.hidden {
+  display: none;
+}
 
+.tab_container {
+  border-bottom: 2px solid black;
+   margin-top: 5px;
+}
 /* Custom CSS */
 
 
@@ -178,12 +185,5 @@ buttons {
   text-decoration: underline;
 }
 
-.hidden {
-  display: none;
-}
 
-.tab_container {
-  border-bottom: 2px solid black;
-   margin-top: 5px;
-}
 

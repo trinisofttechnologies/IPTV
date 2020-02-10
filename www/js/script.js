@@ -11,21 +11,21 @@ jQuery(function ($) {
   });
 
   $('.onPage').on('click', function () {
-    $(".playList").addClass("hidden")
-    $(".player_listing").addClass("hidden")
-    $('.player_form').removeClass('hidden');
+    // $(".playList").addClass("hidden")
+    // $(".player_listing").addClass("hidden")
+    // $('.player_form').removeClass('hidden');
   });
 
-  $('.showPlayer').on('click', function () {
-    $(".playList").addClass("hidden")
-    $(".player_form").addClass("hidden")
-    $('.player_listing').removeClass('hidden');
-  });
-  $('.playerListDiv').on('click', function () {
-    $(".player_listing").addClass("hidden")
-    $(".player_form").addClass("hidden")
-    $('.playList').removeClass('hidden');
-  });
+  // $('.showPlayer').on('click', function () {
+  //   $(".playList").addClass("hidden")
+  //   $(".player_form").addClass("hidden")
+  //   $('.player_listing').removeClass('hidden');
+  // });
+  // $('.playerListDiv').on('click', function () {
+  //   $(".player_listing").addClass("hidden")
+  //   $(".player_form").addClass("hidden")
+  //   $('.playList').removeClass('hidden');
+  // });
 
 
 
